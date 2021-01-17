@@ -27,6 +27,10 @@ class HelpMeResponse : RegExResponse() {
                         LorittaReply(
                                 "Psiu! Se você está com uma dúvida, escreva a sua dúvida no chat e marque o cargo do <@&${Constants.PORTUGUESE_LORITTA_SUPPORT_ROLE_ID}>!",
                                 Emotes.LORI_PAT
+                        ),
+                        LorittaReply(
+                                "Mas lembre-se que editar a mensagem marcando o cargo não adiantará e não fará os Suportes receberem a notificação para te ajudar!",
+                                Emotes.LORI_COFFEE
                         )
                 )
             } else listOf()
