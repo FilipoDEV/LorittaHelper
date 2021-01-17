@@ -29,7 +29,7 @@ class HelpMeResponse : RegExResponse() {
                                 Emotes.LORI_PAT
                         ),
                         LorittaReply(
-                                "Mas lembre-se que editar a mensagem marcando o cargo não adiantará e não fará os Suportes receberem a notificação para te ajudar!",
+                                "Mas lembre-se que editar a mensagem marcando o cargo não fará os Suportes receberem a notificação para te ajudar!",
                                 Emotes.LORI_COFFEE
                         )
                 )
